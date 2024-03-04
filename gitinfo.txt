@@ -1,0 +1,4 @@
+git init 
+git status
+git add e.g script.py
+git commit -m "add script file"
