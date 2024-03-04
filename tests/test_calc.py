@@ -23,5 +23,5 @@ def test_float():
 
 
 
-def test_rational():
+def test_rational(): 
     assert fc.adivb(10,3) == pytest.approx(3.33, 0.01), "10/3 should be 3.333"
